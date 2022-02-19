@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RockPaperScissors/obj/Release/netcoreapp3.0
+/RockPaperScissors/obj
